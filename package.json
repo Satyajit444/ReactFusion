@@ -1,0 +1,70 @@
+{
+  "name": "reactfusion",
+  "version": "1.0.0",
+  "description": "ReactFusion is an all-in-one UI library for React, offering a collection of advanced and customizable UI components to supercharge your web applications. From sleek buttons and elegant forms to responsive grids and dynamic modals, ReactFusion empowers you to create stunning user interfaces effortlessly. Seamlessly integrate modern UI elements into your React projects with ease, inspired by the simplicity of ReactStrap. Elevate your web development game with ReactFusion today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install reactfusion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyajit444/ReactFusion.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "UI",
+    "UI",
+    "components",
+    "Advanced",
+    "UI",
+    "ReactStrap",
+    "Web",
+    "development",
+    "Component",
+    "library",
+    "React",
+    "components",
+    "User",
+    "interface",
+    "UI",
+    "design",
+    "Frontend",
+    "development",
+    "React",
+    "state",
+    "management",
+    "Responsive",
+    "design",
+    "UI",
+    "toolkit",
+    "Web",
+    "components",
+    "Component",
+    "library",
+    "Modern",
+    "UI",
+    "React",
+    "project",
+    "React",
+    "framework",
+    "React",
+    "ecosystem"
+  ],
+  "author": "Satyajit Senapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyajit444/ReactFusion/issues"
+  },
+  "homepage": "https://github.com/Satyajit444/ReactFusion#readme",
+  "dependencies": {
+    "@babel/core": "^7.22.15",
+    "@babel/preset-react": "^7.22.15",
+    "babel-loader": "^9.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
